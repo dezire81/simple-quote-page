@@ -1,1 +1,0 @@
-A git munkamenet gyakorló feladat extra változata.
